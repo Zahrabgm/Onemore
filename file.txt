@@ -1,2 +1,5 @@
 I made a new file to push it in gitHub
 trying to understand it well
+writting text in the new branch 
+chelking the new branch
+# Picture
